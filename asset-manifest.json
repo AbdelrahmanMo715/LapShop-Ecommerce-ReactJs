@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/LapShop-Ecommerce-ReactJs/static/css/main.4643c269.css",
-    "main.js": "/LapShop-Ecommerce-ReactJs/static/js/main.e41cfc17.js",
-    "static/css/930.c4f7e2bb.chunk.css": "/LapShop-Ecommerce-ReactJs/static/css/930.c4f7e2bb.chunk.css",
+    "main.css": "/LapShop-Ecommerce-ReactJs/static/css/main.e410e8bc.css",
+    "main.js": "/LapShop-Ecommerce-ReactJs/static/js/main.e247fc28.js",
+    "static/css/930.6dd56c17.chunk.css": "/LapShop-Ecommerce-ReactJs/static/css/930.6dd56c17.chunk.css",
     "static/js/930.4c244849.chunk.js": "/LapShop-Ecommerce-ReactJs/static/js/930.4c244849.chunk.js",
     "static/js/787.28cb0dcd.chunk.js": "/LapShop-Ecommerce-ReactJs/static/js/787.28cb0dcd.chunk.js",
     "static/js/202.78ed78f6.chunk.js": "/LapShop-Ecommerce-ReactJs/static/js/202.78ed78f6.chunk.js",
@@ -54,15 +54,15 @@
     "static/media/slick.ttf": "/LapShop-Ecommerce-ReactJs/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/LapShop-Ecommerce-ReactJs/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/LapShop-Ecommerce-ReactJs/index.html",
-    "main.4643c269.css.map": "/LapShop-Ecommerce-ReactJs/static/css/main.4643c269.css.map",
-    "main.e41cfc17.js.map": "/LapShop-Ecommerce-ReactJs/static/js/main.e41cfc17.js.map",
-    "930.c4f7e2bb.chunk.css.map": "/LapShop-Ecommerce-ReactJs/static/css/930.c4f7e2bb.chunk.css.map",
+    "main.e410e8bc.css.map": "/LapShop-Ecommerce-ReactJs/static/css/main.e410e8bc.css.map",
+    "main.e247fc28.js.map": "/LapShop-Ecommerce-ReactJs/static/js/main.e247fc28.js.map",
+    "930.6dd56c17.chunk.css.map": "/LapShop-Ecommerce-ReactJs/static/css/930.6dd56c17.chunk.css.map",
     "930.4c244849.chunk.js.map": "/LapShop-Ecommerce-ReactJs/static/js/930.4c244849.chunk.js.map",
     "787.28cb0dcd.chunk.js.map": "/LapShop-Ecommerce-ReactJs/static/js/787.28cb0dcd.chunk.js.map",
     "202.78ed78f6.chunk.js.map": "/LapShop-Ecommerce-ReactJs/static/js/202.78ed78f6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4643c269.css",
-    "static/js/main.e41cfc17.js"
+    "static/css/main.e410e8bc.css",
+    "static/js/main.e247fc28.js"
   ]
 }
