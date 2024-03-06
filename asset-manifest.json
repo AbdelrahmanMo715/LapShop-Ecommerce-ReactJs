@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/LapShop-Ecommerce-ReactJs/static/css/main.4f11c259.css",
-    "main.js": "/LapShop-Ecommerce-ReactJs/static/js/main.feb09b12.js",
-    "static/css/214.f1051a63.chunk.css": "/LapShop-Ecommerce-ReactJs/static/css/214.f1051a63.chunk.css",
-    "static/js/214.efb28689.chunk.js": "/LapShop-Ecommerce-ReactJs/static/js/214.efb28689.chunk.js",
+    "main.css": "/LapShop-Ecommerce-ReactJs/static/css/main.88fc354b.css",
+    "main.js": "/LapShop-Ecommerce-ReactJs/static/js/main.3f97e941.js",
+    "static/css/214.f5eec473.chunk.css": "/LapShop-Ecommerce-ReactJs/static/css/214.f5eec473.chunk.css",
+    "static/js/214.3331328e.chunk.js": "/LapShop-Ecommerce-ReactJs/static/js/214.3331328e.chunk.js",
     "static/js/787.28cb0dcd.chunk.js": "/LapShop-Ecommerce-ReactJs/static/js/787.28cb0dcd.chunk.js",
     "static/js/202.78ed78f6.chunk.js": "/LapShop-Ecommerce-ReactJs/static/js/202.78ed78f6.chunk.js",
     "static/media/Shooting-Aspire-Vero-16-Sapphire-Banner.mp4": "/LapShop-Ecommerce-ReactJs/static/media/Shooting-Aspire-Vero-16-Sapphire-Banner.44fee4f683472a4b1fbf.mp4",
@@ -50,15 +50,15 @@
     "static/media/slick.ttf": "/LapShop-Ecommerce-ReactJs/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/LapShop-Ecommerce-ReactJs/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/LapShop-Ecommerce-ReactJs/index.html",
-    "main.4f11c259.css.map": "/LapShop-Ecommerce-ReactJs/static/css/main.4f11c259.css.map",
-    "main.feb09b12.js.map": "/LapShop-Ecommerce-ReactJs/static/js/main.feb09b12.js.map",
-    "214.f1051a63.chunk.css.map": "/LapShop-Ecommerce-ReactJs/static/css/214.f1051a63.chunk.css.map",
-    "214.efb28689.chunk.js.map": "/LapShop-Ecommerce-ReactJs/static/js/214.efb28689.chunk.js.map",
+    "main.88fc354b.css.map": "/LapShop-Ecommerce-ReactJs/static/css/main.88fc354b.css.map",
+    "main.3f97e941.js.map": "/LapShop-Ecommerce-ReactJs/static/js/main.3f97e941.js.map",
+    "214.f5eec473.chunk.css.map": "/LapShop-Ecommerce-ReactJs/static/css/214.f5eec473.chunk.css.map",
+    "214.3331328e.chunk.js.map": "/LapShop-Ecommerce-ReactJs/static/js/214.3331328e.chunk.js.map",
     "787.28cb0dcd.chunk.js.map": "/LapShop-Ecommerce-ReactJs/static/js/787.28cb0dcd.chunk.js.map",
     "202.78ed78f6.chunk.js.map": "/LapShop-Ecommerce-ReactJs/static/js/202.78ed78f6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f11c259.css",
-    "static/js/main.feb09b12.js"
+    "static/css/main.88fc354b.css",
+    "static/js/main.3f97e941.js"
   ]
 }
