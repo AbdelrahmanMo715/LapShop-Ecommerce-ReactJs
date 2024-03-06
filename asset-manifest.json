@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/LapShop-Ecommerce-ReactJs/static/css/main.88fc354b.css",
-    "main.js": "/LapShop-Ecommerce-ReactJs/static/js/main.3f97e941.js",
-    "static/css/214.f5eec473.chunk.css": "/LapShop-Ecommerce-ReactJs/static/css/214.f5eec473.chunk.css",
-    "static/js/214.3331328e.chunk.js": "/LapShop-Ecommerce-ReactJs/static/js/214.3331328e.chunk.js",
+    "main.css": "/LapShop-Ecommerce-ReactJs/static/css/main.4643c269.css",
+    "main.js": "/LapShop-Ecommerce-ReactJs/static/js/main.e41cfc17.js",
+    "static/css/930.c4f7e2bb.chunk.css": "/LapShop-Ecommerce-ReactJs/static/css/930.c4f7e2bb.chunk.css",
+    "static/js/930.4c244849.chunk.js": "/LapShop-Ecommerce-ReactJs/static/js/930.4c244849.chunk.js",
     "static/js/787.28cb0dcd.chunk.js": "/LapShop-Ecommerce-ReactJs/static/js/787.28cb0dcd.chunk.js",
     "static/js/202.78ed78f6.chunk.js": "/LapShop-Ecommerce-ReactJs/static/js/202.78ed78f6.chunk.js",
     "static/media/Shooting-Aspire-Vero-16-Sapphire-Banner.mp4": "/LapShop-Ecommerce-ReactJs/static/media/Shooting-Aspire-Vero-16-Sapphire-Banner.44fee4f683472a4b1fbf.mp4",
+    "static/media/slide1.jpg": "/LapShop-Ecommerce-ReactJs/static/media/slide1.1a811c2aa33ca634aa53.jpg",
     "static/media/slide_img4.png": "/LapShop-Ecommerce-ReactJs/static/media/slide_img4.7129fa364434707b8ee0.png",
     "static/media/slide_img3.png": "/LapShop-Ecommerce-ReactJs/static/media/slide_img3.a7783afca8338934bc10.png",
     "static/media/slide_img2.png": "/LapShop-Ecommerce-ReactJs/static/media/slide_img2.c76fec3fa01f49942374.png",
+    "static/media/slide4.jpg": "/LapShop-Ecommerce-ReactJs/static/media/slide4.d4a69f1dd1067ae22659.jpg",
+    "static/media/s;ide3.jpg": "/LapShop-Ecommerce-ReactJs/static/media/s;ide3.a044f87b179c693cc029.jpg",
+    "static/media/slide2.jpg": "/LapShop-Ecommerce-ReactJs/static/media/slide2.1540f180ff2b79779382.jpg",
     "static/media/acer-id-5.png": "/LapShop-Ecommerce-ReactJs/static/media/acer-id-5.541f90b9501398f39454.png",
     "static/media/logo.png": "/LapShop-Ecommerce-ReactJs/static/media/logo.ef5f6560283c8accf689.png",
     "static/media/dell-id-21.jpg": "/LapShop-Ecommerce-ReactJs/static/media/dell-id-21.8f34f223add7866aae93.jpg",
@@ -50,15 +54,15 @@
     "static/media/slick.ttf": "/LapShop-Ecommerce-ReactJs/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/LapShop-Ecommerce-ReactJs/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/LapShop-Ecommerce-ReactJs/index.html",
-    "main.88fc354b.css.map": "/LapShop-Ecommerce-ReactJs/static/css/main.88fc354b.css.map",
-    "main.3f97e941.js.map": "/LapShop-Ecommerce-ReactJs/static/js/main.3f97e941.js.map",
-    "214.f5eec473.chunk.css.map": "/LapShop-Ecommerce-ReactJs/static/css/214.f5eec473.chunk.css.map",
-    "214.3331328e.chunk.js.map": "/LapShop-Ecommerce-ReactJs/static/js/214.3331328e.chunk.js.map",
+    "main.4643c269.css.map": "/LapShop-Ecommerce-ReactJs/static/css/main.4643c269.css.map",
+    "main.e41cfc17.js.map": "/LapShop-Ecommerce-ReactJs/static/js/main.e41cfc17.js.map",
+    "930.c4f7e2bb.chunk.css.map": "/LapShop-Ecommerce-ReactJs/static/css/930.c4f7e2bb.chunk.css.map",
+    "930.4c244849.chunk.js.map": "/LapShop-Ecommerce-ReactJs/static/js/930.4c244849.chunk.js.map",
     "787.28cb0dcd.chunk.js.map": "/LapShop-Ecommerce-ReactJs/static/js/787.28cb0dcd.chunk.js.map",
     "202.78ed78f6.chunk.js.map": "/LapShop-Ecommerce-ReactJs/static/js/202.78ed78f6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88fc354b.css",
-    "static/js/main.3f97e941.js"
+    "static/css/main.4643c269.css",
+    "static/js/main.e41cfc17.js"
   ]
 }
