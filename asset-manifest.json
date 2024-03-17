@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/LapShop-Ecommerce-ReactJs/static/css/main.19f77a28.css",
-    "main.js": "/LapShop-Ecommerce-ReactJs/static/js/main.651a9130.js",
-    "static/css/75.16e9b874.chunk.css": "/LapShop-Ecommerce-ReactJs/static/css/75.16e9b874.chunk.css",
-    "static/js/75.7d11f359.chunk.js": "/LapShop-Ecommerce-ReactJs/static/js/75.7d11f359.chunk.js",
+    "main.css": "/LapShop-Ecommerce-ReactJs/static/css/main.7f1d0302.css",
+    "main.js": "/LapShop-Ecommerce-ReactJs/static/js/main.615e94fe.js",
+    "static/css/672.06c1d2d0.chunk.css": "/LapShop-Ecommerce-ReactJs/static/css/672.06c1d2d0.chunk.css",
+    "static/js/672.935fb7d1.chunk.js": "/LapShop-Ecommerce-ReactJs/static/js/672.935fb7d1.chunk.js",
     "static/js/787.28cb0dcd.chunk.js": "/LapShop-Ecommerce-ReactJs/static/js/787.28cb0dcd.chunk.js",
-    "static/js/251.9cbcaa1e.chunk.js": "/LapShop-Ecommerce-ReactJs/static/js/251.9cbcaa1e.chunk.js",
+    "static/js/204.28b23236.chunk.js": "/LapShop-Ecommerce-ReactJs/static/js/204.28b23236.chunk.js",
     "static/media/slide1.jpg": "/LapShop-Ecommerce-ReactJs/static/media/slide1.1a811c2aa33ca634aa53.jpg",
     "static/media/slide4.jpg": "/LapShop-Ecommerce-ReactJs/static/media/slide4.d4a69f1dd1067ae22659.jpg",
     "static/media/s;ide3.jpg": "/LapShop-Ecommerce-ReactJs/static/media/s;ide3.a044f87b179c693cc029.jpg",
@@ -50,15 +50,15 @@
     "static/media/slick.ttf": "/LapShop-Ecommerce-ReactJs/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/LapShop-Ecommerce-ReactJs/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/LapShop-Ecommerce-ReactJs/index.html",
-    "main.19f77a28.css.map": "/LapShop-Ecommerce-ReactJs/static/css/main.19f77a28.css.map",
-    "main.651a9130.js.map": "/LapShop-Ecommerce-ReactJs/static/js/main.651a9130.js.map",
-    "75.16e9b874.chunk.css.map": "/LapShop-Ecommerce-ReactJs/static/css/75.16e9b874.chunk.css.map",
-    "75.7d11f359.chunk.js.map": "/LapShop-Ecommerce-ReactJs/static/js/75.7d11f359.chunk.js.map",
+    "main.7f1d0302.css.map": "/LapShop-Ecommerce-ReactJs/static/css/main.7f1d0302.css.map",
+    "main.615e94fe.js.map": "/LapShop-Ecommerce-ReactJs/static/js/main.615e94fe.js.map",
+    "672.06c1d2d0.chunk.css.map": "/LapShop-Ecommerce-ReactJs/static/css/672.06c1d2d0.chunk.css.map",
+    "672.935fb7d1.chunk.js.map": "/LapShop-Ecommerce-ReactJs/static/js/672.935fb7d1.chunk.js.map",
     "787.28cb0dcd.chunk.js.map": "/LapShop-Ecommerce-ReactJs/static/js/787.28cb0dcd.chunk.js.map",
-    "251.9cbcaa1e.chunk.js.map": "/LapShop-Ecommerce-ReactJs/static/js/251.9cbcaa1e.chunk.js.map"
+    "204.28b23236.chunk.js.map": "/LapShop-Ecommerce-ReactJs/static/js/204.28b23236.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19f77a28.css",
-    "static/js/main.651a9130.js"
+    "static/css/main.7f1d0302.css",
+    "static/js/main.615e94fe.js"
   ]
 }
